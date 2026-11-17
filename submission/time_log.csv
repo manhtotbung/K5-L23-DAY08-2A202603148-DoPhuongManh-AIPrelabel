@@ -1,2 +1,3 @@
 step,images,minutes,note
 gold_manual,4,60,"Gán tay 4 ảnh gold trong CVAT, không dùng AI; 64 box (img_001 dày nhất: 24 box)"
+gold_manual,4,30,"gán tay trong CVAT, không AI; 64 box (7.5 phút/ảnh)"
