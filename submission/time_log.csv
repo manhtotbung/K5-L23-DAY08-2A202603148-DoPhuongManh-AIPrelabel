@@ -1,2 +1,3 @@
 step,images,minutes,note
 gold_manual,4,30,"gán tay trong CVAT, không AI; 64 box (7.5 phút/ảnh)"
+batch_review,24,26.53,"Tôi review 24 ảnh bằng cách quét ảnh gốc rồi đối chiếu box đánh số, xem riêng người và phương tiện, phóng vùng đông hoặc mờ. Rà vật sót, box thừa, sai lớp và box hụt hoặc dư nền. Ghi thay đổi theo ảnh trong changes.json, kiểm tra lại bản hiển thị rồi tạo XML để nạp vào CVAT task 25. Thêm 122 box, xóa 56 box, đổi lớp 13 box, chỉnh tọa độ 43 box. Có 8 ignore_region và 17 box can_review trên 12 ảnh, ghi trong qc/batch_review_notes.csv. Từ 10:01:00 đến Save lúc 10:29:32 ngày 18/11/2026 giờ Việt Nam, trừ hai lần nghỉ một phút sau 10 và 20 ảnh. Thời gian xuất đối chiếu sau Save được tính ngoài phiên review. Quy trình chi tiết ở REPORT.md mục 2."
