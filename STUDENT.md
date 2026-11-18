@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2A
 - Tài khoản GitHub: manhtotbung
 - Repo bài nộp (URL): https://github.com/manhtotbung/K5-L23-DAY08-2A202603148-DoPhuongManh-AIPrelabel
-- Commit chốt bài (hash): 32e074812963e292741542e37c230376c065b4f5
+- Commit chốt bài (hash): cd2eb7ef7afd1fb17c7b4f0706a7ef081bb52f2c
 - Máy: Windows 11 Pro, 16 GB RAM, không GPU (CPU, torch 2.15.0+cpu)
 - CVAT (Docker): v2.81.0
 
